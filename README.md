@@ -6,10 +6,10 @@
 This project analyzes the Nigerian used car market using Excel. The goal is to uncover trends in pricing, vehicle characteristics, and consumer preferences across different regions and car brands.
 
 ## Tools Used
-	  •	  Microsoft Excel 
+	•	Microsoft Excel 
     •   Data cleaning was performed using Power Query to ensure accuracy and consistency
-    •	  Pivot Tables 
-    •	  Data Visualization (Charts & Dashboard Design)
+    •	Pivot Tables 
+    •	Data Visualization (Charts & Dashboard Design)
 
 
 ## Key Insights
@@ -18,6 +18,7 @@ This project analyzes the Nigerian used car market using Excel. The goal is to u
 	•	This indicates that most cars in the dataset are heavily used vehicles
 ## Insight
 The Nigerian market is dominated by used cars rather than new ones.
+
 
 ## 2. Price Distribution
 	•	Average car price is around ₦5M+
@@ -31,18 +32,18 @@ Car affordability varies widely, but mid-range vehicles dominate the market
 
 ## 3. Transmission Preference
 	•	Majority of cars are Automatic (90%+)
-
 ## Insight
 Nigerian buyers strongly prefer automatic transmission vehicles over manual ones
 
+
 ## 4. Brand Dominance
 	•	Brands like Toyota, Lexus, Mercedes-Benz appear most frequently
-
 ## Insight
 ## These brands are trusted for:
 	•	Durability
 	•	Maintenance availability
 	•	Resale value
+
 
  ## 5. Color Popularity
 	•	Neutral colors dominate:
@@ -56,7 +57,7 @@ Buyers prefer low-maintenance and resale-friendly colors
 
 ## 6. Regional Distribution
 	•	Lagos and Abuja dominate listings
-##Insight
+## Insight
 Urban areas drive the largest car market activity in Nigeria
 
 
@@ -78,4 +79,8 @@ Urban areas drive the largest car market activity in Nigeria
 	•	Invest in mid-range vehicles, as they dominate demand.
 
   ## 📊 Dashboard Preview
+![Nigerian Car Market Dashboard](Dashboard%20image/Screenshot%202026-03-31%20140324.png)
 
+
+## Conclusion
+This project demostrates strong skills in dat cleaning,analysis, and dashboard creation  using Excel,with a focus on real world business insights.
